@@ -1,0 +1,5 @@
+
+export const LikeTypes = {
+  INCREASE_LIKE: 'INCREASE_LIKE',
+  DECREASE_LIKE: 'DECREASE_LIKE'
+}
